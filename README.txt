@@ -3,12 +3,14 @@ Especialización en Construccion de Software
 Conceptos Avanzados de Ingeniería de Software
 
 PSP1
-Programa cuentea las líneas de código fuente de una aplicación java.
+Programa que cuenta las líneas de código fuente de una aplicación java.
 
 Fork del Proyecto:
 Para obtener este proyecto desde el repositorio GutHub, clone el proyecto con la siguiente URL:
 https://github.com/johnoso27/psp1.git
 
+Para ejecutar la aplicación desde el repositorio de Heroky, acceder a la siguiente URL:
+http://psp1-john.herokuapp.com
+
 
 John Dany Osorio Ramos
-
